@@ -1,5 +1,6 @@
 # Task-1
 LOGIC :
+<br>
 1)We first create an array which contains unique numbers(Randomly generated)(Left table join key vector)
 <br>
 2)We create an arraylist which contains indexes for the right array ie from 0 to 3(the array contains values from 0 to 3)
